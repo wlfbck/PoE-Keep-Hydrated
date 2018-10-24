@@ -1,7 +1,7 @@
-# A simple Java tool for pricechecking Path of Exile items
+# A simple Java tool for automatically pressing 2 to 5 (thus drinking the potions there in Path of Exile).
 
-I mainly made this as an exercise for myself, but thought it might be useful for some people. It uses poe.ninjas price data (updated on startup and every two hours after). Currently works for all Uniques (including maps) and Divination Cards.
+I mainly made this as an exercise for myself, but thought it might be useful for some people. 
 
 ## How to use
 
-If you have Java installed, just run the jar and press F3 when hovering over an item. That's it!
+If you have Java installed, just run the jar and press F. That's it! You can toggle it off/on by pressing circumflex (^).

@@ -23,8 +23,9 @@ import org.jnativehook.keyboard.NativeKeyListener;
 public class MainApp implements NativeKeyListener {
 
 	private boolean hotkeyActive = false;
-	private int ignoreHotkeyCode = 43;
 	//43 Back Slash    circumflex ^
+	private int ignoreHotkeyCode = 43;
+	//33 F
 	private int hotkeyCode = 33;
 	private String[] keysToPress = {"2","3","4","5"};;
 	
